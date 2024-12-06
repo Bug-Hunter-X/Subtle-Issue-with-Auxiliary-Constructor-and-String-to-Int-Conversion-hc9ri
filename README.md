@@ -1,0 +1,1 @@
+This repository demonstrates a potential pitfall in Scala when using auxiliary constructors with string-to-integer conversion. The `bug.scala` file showcases the erroneous approach that can lead to runtime exceptions. The `bugSolution.scala` file provides a more robust and exception-safe solution.
